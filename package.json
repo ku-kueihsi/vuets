@@ -1,0 +1,31 @@
+{
+  "name": "vuets",
+  "version": "1.0.0",
+  "description": "node packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ku-kueihsi/vuets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ku-kueihsi/vuets/issues"
+  },
+  "homepage": "https://github.com/ku-kueihsi/vuets#readme",
+  "dependencies": {
+    "vue": "^2.2.6",
+    "vue-class-component": "^5.0.1"
+  },
+  "devDependencies": {
+    "concurrently": "^3.4.0",
+    "source-map-loader": "^0.2.1",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.2.2",
+    "webpack": "^2.3.3",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
